@@ -6,6 +6,15 @@ iOS e-commerce app for browsing, customizing, and ordering cakes. Built with Swi
 
 ## 🎥 Demo
 
+### 📺 Full Demo Video
+
+<div align="center">
+  
+  [![Watch the demo](https://img.youtube.com/vi/27FeBWInk38/0.jpg)](https://www.youtube.com/watch?v=27FeBWInk38)
+  <p>(^ Click to view on YouTube)</p>
+  
+</div>
+
 ## ✨ Features
 
 - 🍰 Browse a catalog of customizable cakes
