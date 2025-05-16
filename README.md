@@ -1,5 +1,5 @@
 # NorElisCakes - iOS Application
-iOS e-commerce app for browsing, customizing, and ordering cakes. Built with Swift and UIKit.
+iOS e-commerce mock/demo app for browsing, customizing, and ordering cakes. Built with Swift and UIKit.
 
 ![iOS Application](https://github.com/user-attachments/assets/669a4fd8-6b09-49d7-ad01-dfe8e5f5cc1b)
 ![iOS Application-3](https://github.com/user-attachments/assets/1abe2b49-cad6-4f9b-9b81-ea3812b2d86a)
