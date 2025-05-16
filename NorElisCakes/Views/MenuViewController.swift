@@ -59,6 +59,7 @@ class MenuViewController: UIViewController, UITableViewDelegate, UITableViewData
            let categoryIndexPath = tableView.indexPathForSelectedRow?.row {
             let category = categoriesAndImages[categoryIndexPath].name
             destination.menuItems = cakesCategoriesMappings[category]!
+            destination.navigationItem.title = category
         }
     }
 }
